@@ -1,1 +1,3 @@
 Papers/
+__pycache__/
+*.pyc
